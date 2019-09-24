@@ -1,0 +1,43 @@
+.logo {
+	max-width: 100px;
+}
+
+#tf-hubungi-kami {
+	color: #fff;
+	background-color: #222222;
+	background-image: url('../img/map-image.png');
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.flat {
+	border-radius: 0px;
+}
+
+.btn-flat {
+	border-radius: 0px !important;
+}
+
+.bg-black {
+	background: #222;
+	color: #fff;
+}
+.bg-white {
+	background: #fff;
+	color: #000;
+}
+.bg-red {
+	background: #ff1919;
+	color: #fff;
+}
+.bg-grey {
+	background: #f0f0f0;
+	color: #000;
+}
+
+.red {
+	color: #ff1919;
+}
+.blue {
+	color: #00ccff;
+}
