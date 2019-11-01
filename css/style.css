@@ -621,3 +621,8 @@ div#tf-arena div p.info {
   font-size: 15px;
   font-weight: bold;
 }
+
+a.navbar-brand img {
+  padding-top: 5px;
+}
+
