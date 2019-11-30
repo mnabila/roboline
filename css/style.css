@@ -539,23 +539,24 @@ label {
   -webkit-box-shadow: transparent;
   box-shadow: transparent;
 }
-button.btn.tf-btn.btn-default {
-  float: right;
-  background: #00ccff;
+.tf-btn {
   border: 0;
   border-radius: 0;
   padding: 10px 40px;
-  color: #ffffff;
+  margin: auto;
+  margin-top: 5px;
   text-transform: uppercase;
 }
-button.btn.tf-btn.btn-download {
+.btn-default {
+  background: #ffffff;
+  color: #000000;
+}
+
+.btn-download {
   background: #00ccff;
-  border: 0;
-  border-radius: 0;
-  padding: 10px 40px;
   color: #ffffff;
-  text-transform: uppercase;
 }
+
 .btn:active,
 .btn.active {
   background-image: none;
@@ -625,4 +626,3 @@ div#tf-arena div p.info {
 a.navbar-brand img {
   padding-top: 5px;
 }
-
